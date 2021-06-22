@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitysush
-- 👀 I’m interested in Product Management in AI
-- 🌱 I’m currently learning data science, AI, ML, Data science
+- 👀 I’m interested in Product Management and App development
+- 🌱 I’m currently learning data science, AI, ML, Data science, App building using Flutter
 - 💞️ I’m looking to collaborate on determine exercise type and repetetitions based on accelerometer data
 - 📫 How to reach me https://www.linkedin.com/in/sushrutchafadker/
 
